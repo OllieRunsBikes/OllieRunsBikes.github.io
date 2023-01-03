@@ -1,4 +1,4 @@
 baseURL = 'http://ollie.run/'
 languageCode = 'en-GB'
 title = 'Ollie Runs'
-theme = 'beautifulhugo'
+theme = 'ananke'
