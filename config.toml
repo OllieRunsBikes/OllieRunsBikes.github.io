@@ -28,7 +28,7 @@ paginate = 5
   # rssFullText = true
 
 [taxonomies]
-    category = "blog"
+    category = "categories"
     tag      = "tags"
     series   = "series"
 
