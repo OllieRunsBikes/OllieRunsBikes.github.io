@@ -2,6 +2,7 @@
 title: "Dealing with Negative Feedback as a Developer in 2023"
 date: 2023-01-06T15:29:09Z
 draft: false
+cover: "static/image/2023-01-06-dealing-with-negative-feedback-as-a-developer.jpg"
 ---
 
 As a developer, it can be easy to get excited about a new solution you've come up with for a problem. You might think it's the best thing since sliced bread and be eager to share it with your team or community. However, not everyone will always see things the same way, and it's possible that you'll receive negative feedback on your idea. This can be disheartening and might even make you question your abilities as a developer.
