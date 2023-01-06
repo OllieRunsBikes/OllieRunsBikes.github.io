@@ -3,6 +3,8 @@ title: "New Years Resolutions for 2023"
 date: 2023-01-05T21:28:09Z
 draft: false
 cover: "images/2023-01-05-resolutions-for-2023.webp"
+categories: ["General"]
+tags: ["New Years Resolution", "Running", "Web Sites", "Programming"]
 ---
 
 It's that time of year again when many of us make resolutions with the hope of improving ourselves and our lives. Last year, I made three resolutions and I'm proud to say that I achieved two of them.

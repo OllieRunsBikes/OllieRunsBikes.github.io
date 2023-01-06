@@ -27,6 +27,11 @@ paginate = 5
   #(default is Description or Summary metadata in the front matter)
   # rssFullText = true
 
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
 [languages]
   [languages.en]
     title = "Olle Runs"
@@ -53,12 +58,12 @@ paginate = 5
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-    #[languages.en.menu]
-    #  [[languages.en.menu.main]]
-    #    identifier = "about"
-    #    name = "About"
-    #    url = "/about"
-    #  [[languages.en.menu.main]]
-    #    identifier = "showcase"
-    #    name = "Showcase"
-    #    url = "/showcase"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags"
+      [[languages.en.menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories"
